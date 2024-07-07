@@ -1,0 +1,1 @@
+Analyzed electoral data from over 500 constituencies using Python (Pandas, Matplotlib, Seaborn) to evaluate party performance and vote margins. Created visualizations and comparative insights into the electoral influence of key leaders, aiding strategic decision-making
